@@ -1,6 +1,6 @@
 <?php
 
-namespace Glomer4\Widgets\Presets;
+namespace Arche4\Widgets\Presets;
 
 use Ceres\Config\CeresConfig;
 use Ceres\Widgets\Helper\Factories\PresetWidgetFactory;
@@ -33,7 +33,7 @@ class DefaultHomepagePreset implements ContentPreset
 
 
         $this->setupImageBoxWidget($this->preset->createWidget("Ceres::ImageBoxWidget"));
-        $this->preset->createWidget("Glomer4::ImageListWidget")
+        $this->preset->createWidget("Arche4::ImageListWidget")
                      ->withSetting("entries", []);
 
 

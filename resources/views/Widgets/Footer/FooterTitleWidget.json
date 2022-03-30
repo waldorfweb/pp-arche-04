@@ -1,11 +1,11 @@
 {
-    "identifier": "Glomer4::FooterTitleWidget",
+    "identifier": "Arche4::FooterTitleWidget",
     "label": "Widget.footerHeadline",
     "previewImageURL": "/images/dia-widgets/footer-headline.png",
     "type": "static",
     "categories": ["dia"],
     "position": 400,
-    "widgetClass": "Glomer4\\Widgets\\Footer\\FooterTitleWidget",
+    "widgetClass": "Arche4\\Widgets\\Footer\\FooterTitleWidget",
     "settings": {
         "text": {
             "type": "text",

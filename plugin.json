@@ -1,10 +1,10 @@
 {
     "version": "5.0.45",
     "license": "AGPL-3.0",
-    "name": "Glomer4",
+    "name": "Arche4",
     "marketplaceName": {
-        "de": "Glomer4",
-        "en": "Glomer4"
+        "de": "Arche4",
+        "en": "Arche4"
     },
     "pluginIcon": "icon_plugin_xs.png",
     "authorIcon": "icon_author_xs.png",
@@ -12,10 +12,10 @@
     "phone": "",
     "description": "Waldorf theme for Ceres.",
     "shortDescription": {
-        "de": "Glomer theme 04 für LTS.",
-        "en": "Glomer theme 04 for LTS."
+        "de": "Universnatur GmbH theme 04 für LTS.",
+        "en": "Universnatur GmbH theme 04 for LTS."
     },
-    "namespace": "Glomer4",
+    "namespace": "Arche4",
     "author": "Universnatur GmbH",
     "keywords": [
         "plentymarkets",
@@ -37,5 +37,5 @@
         "name": "Head: Google Tag Manager",
         "description": "Add data layer before google tag manager"
     }],
-    "serviceProvider": "Glomer4\\Providers\\ThemeServiceProvider"
+    "serviceProvider": "Arche4\\Providers\\ThemeServiceProvider"
 }
